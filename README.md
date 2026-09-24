@@ -170,7 +170,7 @@ Using different tools and platforms helped me understand the common principle be
 
 ## Full Report
 
-📄 **[Password Cracking Report (DOCX)](./reports/W3-Password_Cracking_Report.docx)**
+📄 **[Password Cracking Report (DOCX)](./reports/w3-password_cracking_report.docx)**
 
 > Add the DOCX file to the `reports/` directory before relying on this link.
 
