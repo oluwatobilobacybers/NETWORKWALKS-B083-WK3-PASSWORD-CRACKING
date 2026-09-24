@@ -93,15 +93,15 @@ Evidence from the John the Ripper session confirmed:
 
 #### 1. Hash Extraction using pdf2john (Kali Linux)
 
-![pdf2john Hash Extraction](screenshots/01-pdf2john-hash-extraction.png)
+![pdf2john Hash Extraction](Screenshots/01-pdf2john-hash-extraction.png)
 
 #### 2. John the Ripper – Successful Password Crack
 
-![John the Ripper Success](screenshots/02-john-the-ripper-success.png)
+![John the Ripper Success](Screenshots/02-john-the-ripper-success.png)
 
 #### 3. Flag Capture – PDF1 Cracked with John the Ripper
 
-![Flag Capture - PDF1](screenshots/03-flag-capture-pdf1-jtr.png)
+![Flag Capture - PDF1](Screenshots/03-flag-capture-pdf1-jtr.png)
 
 ---
 
@@ -128,15 +128,15 @@ Screenshots documenting the practical exercises are included below.
 
 #### 4. NetworkWalks Hash Calculator
 
-![NetworkWalks Hash Calculator](screenshots/04-networkwalks-hash-calculator.png)
+![NetworkWalks Hash Calculator](Screenshots/04-networkwalks-hash-calculator.png)
 
 #### 5. NetworkWalks Password Cracker – Successful Result
 
-![NetworkWalks Password Cracker Success](screenshots/05-networkwalks-password-cracker-success.png)
+![NetworkWalks Password Cracker Success](Screenshots/05-networkwalks-password-cracker-success.png)
 
 #### 6. Flag Capture – PDF2 Cracked with Windows-Based NetworkWalks Tools
 
-![Flag Capture - PDF2](screenshots/06-flag-capture-pdf2-networkwalks.png)
+![Flag Capture - PDF2](Screenshots/06-flag-capture-pdf2-networkwalks.png)
 
 > **Important:** Ensure screenshots uploaded to this public repository do not expose recovered passwords, complete hashes, usernames, session tokens, or other sensitive credentials.
 
@@ -170,7 +170,7 @@ Using different tools and platforms helped me understand the common principle be
 
 ## Full Report
 
-📄 **[Password Cracking Report (DOCX)](./reports/w3-password_cracking_report.docx)**
+📄 **[View W3-FINAL Report](W3-FINAL/W3-Password-Cracking-Report.docx)**
 
 > Add the DOCX file to the `reports/` directory before relying on this link.
 
