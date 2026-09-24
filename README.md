@@ -1,4 +1,16 @@
-# NETWORKWALKS-B083-WK3-PASSWORD-CRACKING
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-Password%20Recovery-red?style=for-the-badge)
+![pdf2john](https://img.shields.io/badge/pdf2john-PDF%20Hash%20Extraction-blue?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2026.2-blue?style=for-the-badge)
+![Password Cracking](https://img.shields.io/badge/Password%20Cracking-Authorized%20Lab-orange?style=for-the-badge)
+![Hash Extraction](https://img.shields.io/badge/Hash%20Extraction-PDF-green?style=for-the-badge)
+![Dictionary Attack](https://img.shields.io/badge/Dictionary%20Attack-Password%20Recovery-purple?style=for-the-badge)
+![NetworkWalks Tools](https://img.shields.io/badge/NetworkWalks-Password%20Cracker-black?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-Password%20Recovery-blue?style=for-the-badge)
+
+![Project](https://img.shields.io/badge/Project-Password%20Cracking-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+# NETWORKWALKS-B083F-WK3-PASSWORD-CRACKING
 
 ## Week 3 Project – Password Cracking with John the Ripper & NetworkWalks Tools
 
