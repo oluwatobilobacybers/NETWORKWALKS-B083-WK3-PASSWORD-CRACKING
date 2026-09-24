@@ -148,7 +148,7 @@ Screenshots documenting the practical exercises are included below.
 
 #### 6. Flag Capture – PDF2 Cracked with Windows-Based NetworkWalks Tools
 
-![Flag Capture - PDF2](Screenshots/06-flag-capture-pdf2-networkwalks.png)
+![Flag Capture - PDF2](Screenshots/06-flag-capture-persistence-jtr.png)
 
 > **Important:** Ensure screenshots uploaded to this public repository do not expose recovered passwords, complete hashes, usernames, session tokens, or other sensitive credentials.
 
